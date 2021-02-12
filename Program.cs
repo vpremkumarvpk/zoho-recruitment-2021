@@ -21,7 +21,7 @@ namespace Programming
                 {
                     Console.Write(" ");
                 }
-                idx = 3;
+                idx = mid;
                 for (k = 1; k <= i; k++)
                 {
                     if (idx >= len)
